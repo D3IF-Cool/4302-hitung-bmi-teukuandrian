@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="button" type="id" />
+    <item name="bmiTextView" type="id" />
+    <item name="divider" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="wanitaRadioButton" type="id" />
+    <item name="priaRadioButton" type="id" />
+    <item name="tinggiEditText" type="id" />
+    <item name="beratEditText" type="id" />
+    <item name="textView3" type="id" />
+    <item name="kategoriTextView" type="id" />
+</resources>
