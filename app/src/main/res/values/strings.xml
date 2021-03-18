@@ -18,5 +18,22 @@ badanmu ideal atau tidak. Cobalah sekarang!”
     <string name="berat_invalid">Berat tidak boleh kosong.</string>
     <string name="tinggi_invalid">Tinggi tidak boleh kosong.</string>
     <string name="gender_invalid">Pilih jenis kelamin.</string>
+    <string name="judul_kurus">Mengatasi Kekurusan</string>
+    <string name="judul_ideal">Menjaga Tetap Ideal</string>
+    <string name="judul_gemuk">Mengatasi Kegemukan</string>
+    <string name="saran_kurus">Cobalah untuk makan porsi besar, seperti burger
+berukuran raksasa ini.</string>
+    <string name="saran_ideal">Pertahankan gaya hidupmu! Tapi jangan kebanyakan
+gaya karena itu berbahaya.</string>
+    <string name="saran_gemuk">Cobalah untuk olahraga lari. Kemanapun boleh,
+asal tidak lari dari kehidupan.</string>
+    <string name="lihat_saran" />
+    <string name="lihat_saran">Lihat Saran</string>
+    <string name="copyright" />
+    <string name="tentang_aplikasi" />
+    <string name="bagikan" />
+    <string name="bagikan_template">Berat badan: %1$s kg\nTinggi badan: %2$s
+cm\nJenis kelamin: %3$s\n\n%4$s\n%5$s</string>
+
 
 </resources>

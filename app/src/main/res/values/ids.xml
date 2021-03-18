@@ -10,4 +10,7 @@
     <item name="beratEditText" type="id" />
     <item name="textView3" type="id" />
     <item name="kategoriTextView" type="id" />
+    <item name="saranFragment" type="id" />
+    <item name="aboutFragment" type="id" />
+    <item name="menu_about" type="id" />
 </resources>
