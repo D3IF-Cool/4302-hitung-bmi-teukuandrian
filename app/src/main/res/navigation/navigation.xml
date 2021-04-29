@@ -16,6 +16,9 @@
     <action
         android:id="@+id/action_hitungFragment_to_aboutFragment"
         app:destination="@id/aboutFragment" />
+    <action
+        android:id="@+id/action_hitungFragment_to_historiFragment"
+        app:destination="@id/historiFragment" />
     <fragment
         android:id="@+id/saranFragment"
         android:name="com.teukuandrian.hitungbmi.ui.SaranFragment"
@@ -29,6 +32,12 @@
     <action
         android:id="@+id/hitungfragment"
         app:destination="@id/saranFragment" />
+    ...
+    <fragment
+        android:id="@+id/historiFragment"
+        android:name="com.indraazimi.hitungbmi.ui.histori.HistoriFragment"
+        android:label="@string/histori"
+        tools:layout="@layout/fragment_histori" />
 
     />
 </navigation>
